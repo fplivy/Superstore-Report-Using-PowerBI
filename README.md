@@ -14,6 +14,7 @@ Here, we verify that each column's format is accurate and make any required corr
 
 ## DATA EXPLORATION/VISUALIZATION
 Here, we used charts and tiles to provide particular business answers for a study of sales performance. Among these enquiries are the following:
+
 i.	Which Category has the highest order totals?
 
 ii.	What is the profit margin that each category has made?
@@ -38,6 +39,9 @@ We must first define the KPI (Key Performance Indicators) before we can respond 
 **v.	Discount:** The dataset's overall amount of all discounts 
 
 To visualise our KPI, we use the KPI tile. The Card tile is another option.
+
+![image](https://github.com/user-attachments/assets/8a79c817-53fb-4ad9-9f24-eee4209a42cb)
+
 
 **1.	What is the highest ordered category?**
 
